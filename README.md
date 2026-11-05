@@ -10,7 +10,7 @@ Ignacio Rasines — Legajo 2026223 — Grupo 3 (Galdames, González, Molina, Ras
 | `clusterai_ignacio_rasines_eda.ipynb` | Análisis exploratorio de datos |
 | `clusterai_ignacio_rasines_preprocesamiento.ipynb` | Limpieza, imputación, encoding, escalado y split train/test |
 | `clusterai_ignacio_rasines_machine_learning.ipynb` | Modelos (Regresión Logística, KNN, Árbol, Random Forest, XGBoost, MLP), ajuste de umbral, PCA |
-| `clusterai_reporte_rasines.pdf` | Reporte técnico |
+| `clusterai_reporte_Rasines.pdf` | Reporte técnico |
 | `datos/bank_subscription.csv` | Dataset original |
 
 ## Cómo ejecutar
